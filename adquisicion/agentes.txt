@@ -1,0 +1,2 @@
+localhost 2 161 grupo_4cm2
+10.100.71.77 2 161 grupo4cm2

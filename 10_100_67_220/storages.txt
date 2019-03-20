@@ -1,0 +1,4 @@
+1<<-->>"C:\\ Label:Windows  Serial Number 423512de"
+2<<-->>"D:\\ Label:RECOVERY  Serial Number c64305a5"
+3<<-->>"Virtual Memory"
+4<<-->>"Physical Memory"
